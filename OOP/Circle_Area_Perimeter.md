@@ -1,5 +1,17 @@
 ### Question 1
 
+Write a program with class named Circle constructed by a radius methods which will compute the area and the perimeter of a circle. 
+
+*Class Name: Circle*
+
+*Method1: area*
+
+*Method2: perimeter*
+
+Create an object for the class Circle and display the area and perimeter of a circle. 
+
+Note: Use pl = 3.14
+
 ```python
 
 
