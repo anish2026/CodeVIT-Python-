@@ -4,7 +4,6 @@ Richie and Riya's game problem.
 
 ```python
 n=list(map(int,input().split()))
-
 temp=0
 while(temp<n[2]):
     
